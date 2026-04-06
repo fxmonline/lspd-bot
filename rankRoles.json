@@ -1,0 +1,11 @@
+{
+  "Recruit": [
+    "ROLE_ID_HERE"
+  ],
+  "Officer": [
+    "ROLE_ID_HERE"
+  ],
+  "Sergeant": [
+    "ROLE_ID_HERE"
+  ]
+}
